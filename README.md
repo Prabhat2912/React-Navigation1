@@ -85,7 +85,7 @@ NavigationContainer
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Prabhat2912/React-Navigation1.git
    cd React-Navigation1
    ```
 
